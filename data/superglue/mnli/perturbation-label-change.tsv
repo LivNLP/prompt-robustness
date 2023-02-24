@@ -1,0 +1,48 @@
+idx	sentence_A	sentence_B	label
+0	oh really it wouldn't matter if we plant them when it was starting to get warmer	The plants are not strictly seasonal	entailment
+1	"Do you know what this is?"" With a dramatic gesture she flung back the left side of her coat and exposed a small enamelled badge."	She was wearing a coat during the time.	entailment
+2	Finally, the Administration strongly opposes including reductions for CO2 in S. 556 or any multi-pollutant bill.	Any multi-pollutant bill is opposed by the Administration	entailment
+3	For the first time I entertained the idea of taking my talents to that particular market… .	I had never thought of doing it as I knew I would fail.	entailment
+4	they don't call them immigrants anymore that was back during my granddaddy's day	They once called them immigrants.	entailment
+5	i can't do any jumping up and down because it makes it hurt	The pain is too much after jumping	entailment
+6	Information is the resource-extractive industry of the next century, and the concept of intellectual property --a term that dates back 150 years--comes up when individuals or companies assert a particular claim and embody it in the form of copyrights, trademarks, and patents.	Information is the industry of the next century and copytights, trademarks, and patents protect you from intellectual property theft. 	entailment
+7	right oh they've really done uh good job of keeping everybody informed of what's going on sometimes i've wondered if it wasn't almost more than we needed to know	After not sharing all information with everyone, I think I may have shared too little.	contradiction
+8	no i i just painted	I did not painted.	contradiction
+9	From ethnic food shops and vintage clothing stores to electronics and book shops, there are so many interesting shopping spots that it is hard to imagine their breadth and depth.	There are not a wide variety of shopping spots, such as ethnic food grocery stores, vintage clothing stores, electronic stores, book stores.	contradiction
+10	looking at that and you know and if it's funny or if it keeps my interest if it's exciting i'll watch it if not i don't and times that i saw that or pieces of that it wasn't any it wasn't great Thirty Something i watched a few times because there was a few good episodes and then after that i just lost interest in it	I've watched Thirty Something as some of the episodes were good.	entailment
+11	Most produce is locally grown, with some from the restaurant's own organic garden.	Most produce is not local.	contradiction
+12	After their savage battles, the warriors recuperated through meditation in the peace of a Zen monastery rock garden.	The warriors did not have savage battles at a Zen monastery rock garden.	entailment
+13	Medicare gross outlay projections based on intermediate assumptions of the 2001 HI and SMI Trustees' reports.	HI and SMI Trustee reports were not used to estimate future Medicare costs.	contradiction
+14	Guards would regulate those who entered and departed.	Guards controlled people.	entailment
+15	yeah because being a student i'm doing it for the money	I'm a student, so I need the money.	entailment
+16	As Jon looked at him, Barnam puffed out his chest.	Barnam did not puff out his chest when Jon looked at him.	contradiction
+17	The Romans built roads and established towns, including the towns of Palmaria (Palma) and Pollentia (near present-day Alc??dia).	Romans did not build roads and towns.	contradiction
+18	he's not a starter	He is not the one they always have starting.	entailment
+19	The most important directions are simply up and up leads eventually to the cathedral and fortress commanding the hilltop, and down inevitably leads to one of three gates through the wall to the new town.	The cathedral and fortress are located lower while the gates are below.	contradiction
+20	Then he gave in.	He gave in.	entailment
+21	The Indigenous Project, a new program run by the Oregon Law Center, is one of only a handful of places in the United States where indigenous farmworkers from Mexico and Central America can find free and confidential legal aid.	The Indigenous Project is run by the Oregon Law Center.	entailment
+22	Vatican II gave rise to a less hierarchical and more outward-looking Catholicism and set the stage for once-unthinkable innovations like plainclothes nuns and the celebration of the Mass in English and other modern languages.	Vatican II led to a lesser centralization of power within the Catholic church.	entailment
+23	An overall increase in prices is only possible when there has been an overall increase in the amount of money in circulation.	Prices increase with the money in circulation.	entailment
+24	The city plans to build a community center for Lincoln Place and a future fire station on the site.	The city will build a community center.	entailment
+25	That analysis is guided by an economist's faith in the maxim that people are generally pretty good at looking out for their own interests.	The analysis is not guided by the belief that people are generally good at looking into their own interests	contradiction
+26	It is not possible to walk up through the water as at Dunn's River, but steps have been erected at the side of the water to take you to a platform at the foot of the first cascade.	Just as at Dunn's River, you cannot wade up through the water to the platform.	entailment
+27	Acute Bronchitis Upper Respiratory Symptoms Lower Respiratory Symptoms Work Loss Days Minor Restricted Activity Days (minus asthma attacks)	Acute bronchitis leads to loss of work days.	entailment
+29	Beside the fortress lies an 18th-century caravanserai, or inn, which has been converted into a hotel, and now hosts regular folklore evenings of Turkish dance and music.	The 18th century caravanserai is not now a hotel.	contradiction
+30	General Motors, for instance, lost $460 million to strikes in 1997, but investors treated the costs as a kind of extraordinary charge and valued the company as if the losses had never happened.	GM did not loose a lot of money in labor disputes.	contradiction
+31	On various episodes he is a member, along with Bluebeard and the Grim Reaper, of the Jury of the Damned; he takes part in a snake-bludgeoning (in a scandal exposed by a Bob Woodward book); his enemies list is used for dastardly purposes; even his dog Checkers is said to be bound for hell.	There are some episodes where he is a member of something.	entailment
+32	His fantastic body could heal itself against whatever they did to him, and his mind refused to accept the torture supinely.	His strong body could heal itself against any scratch.	entailment
+33	away from the children	keep away from the children	entailment
+35	it depends a lot of uh a lot of things were thought that uh as you know the farmers thought okay we got chemicals we're putting chemicals on the field well the ground will naturally filter out the	There is not point in putting chemicals in the toilet.	neutral
+36	A newly unified Christian Spain under the Catholic Monarchs, Ferdinand and Isabella, completed the Reconquest, defeating the only Moorish enclave left on the Iberian peninsula, Granada, in 1492.	The last Moorish enclave was not defeated in 1492.	contradiction
+37	The author began with a set of hunches or hypotheses about what can go wrong in agency management, and what would be evidence supporting-or contradicting-these hypotheses.	The author provided a set of hunches.	entailment
+38	So it wasn't Missenhardt's singing--marvelous though that was--that made Osmin's rantings so thrilling.	Osmin's rantings were so thrilling but was not caused by Missenhardt's singing	entailment
+39	"There's only one thing for me to do."""	I have only one more option left.	entailment
+40	yeah well at least as they told us uh two shifts	They said there were two shifts.	entailment
+41	He caught a grip on himself, fighting the fantasies of his mind, and took another breath of air.	He tried to fight the fantasies of his mind.	entailment
+42	Since the rules were issued as interim rules and not as general notices of proposed rulemaking, they are not subject to the Unfunded Mandates Reform Act of 1995.	The rules were issued as interim rules but rather general notices of proposed rulemaking.	entailment
+43	yeah and i'll do this uh sometimes i'll put my after I pour that into my back into my saucepan i'll put the eggs in the same dish and beat them up and then pour the cornstarch and the milk mixture in the egg so	I never put the eggs in the same dish and add the cornstarch.	contradiction
+44	well what is it	Do not tell me what it is.	contradiction
+46	The Wither's eldest boy, one of the four of the town militia, saluted in the old style with his stick sword.	The Wither's had a boy.	entailment
+47	The University of Nevada-Las Vegas boasts a student population over 23,000 (though, like most of the people in Las Vegas, they are commuters).	The University of Nevada allows students to commute.	entailment
+48	The park was established in 1935 and was given Corbett's name after India became independent.	The name of the park was changed to Corbett.	entailment
+49	To their good fortune, he's proving them right.	He is showing that they are correct.	entailment
