@@ -6,14 +6,14 @@ Our experiment is divided into two phases (1) prompt learning (2) analyzing the 
 
 
 1. Learning prompt tokens by AutoPrompt (AP).
-```sh
+```bash
 cd ap
 sh ap_label-token-search.sh
 sh ap_trigger-token-search.sh
 ```
 
 2. Fine-tuning PLM by Manually-written Prompts (MP).
-```sh
+```bash
 cd mp
 sh mp_finetuning.sh
 ```
@@ -22,20 +22,20 @@ sh mp_finetuning.sh
 The following scripts perform the four robustness evaluations of LM prompts.
 
 AutoPrompt (AP)
-```sh
+```bash
 cd ap
 sh ap_run-all-robust-eval.sh 
 ```
 
 Manually-written Prompts (MP) 
-```sh
+```bash
 cd mp
 sh mp_run-all-robust-eval.sh 
 ```
 
 ## The adversarial NLI dataset
 We created the adversarial NLI dataset (see 3.5 Adversarial Perturbations in our paper). These datasets were used for the prompt robustness experiments described above.
-```
+```bash
 data/superglue/cb/perturbation-label-change.tsv
 data/superglue/cb/perturbation-label-no-change.tsv
 data/superglue/mnli/perturbation-label-change.tsv
