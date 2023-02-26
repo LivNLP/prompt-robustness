@@ -1,7 +1,14 @@
 # Evaluating the Robustness of Discrete Prompts
 Yoichi Ishibashi, Danushka Bollegala, Katsuhito Sudoh, Satoshi Nakamura: [Evaluating the Robustness of Discrete Prompts](https://arxiv.org/abs/2302.05619) (EACL 2023)
 
+## Setup
+Install the required packages.
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
+
 Our experiment is divided into two phases (1) prompt learning (2) analyzing the robustness of the learned prompts.
 
 
