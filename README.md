@@ -34,7 +34,7 @@ sh mp_run-all-robust-eval.sh
 ```
 
 ## The adversarial NLI dataset
-We created the adversarial NLI dataset (see 3.5 Adversarial Perturbations in our paper). These datasets were used for the prompt robustness experiments described above.
+We created the adversarial NLI dataset (see Sec 3.5 Adversarial Perturbations in our paper). These datasets were used for the prompt robustness evaluation described above.
 ```bash
 data/superglue/cb/perturbation-label-change.tsv
 data/superglue/cb/perturbation-label-no-change.tsv
